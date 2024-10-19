@@ -1,4 +1,5 @@
 import fotoPerfil from "../assets/fotodeperfil.png";
+
 import PROFILE_CONTENT from "../constants/PROFILE_CONTENT.jsx"
 
 const Profile = () => {

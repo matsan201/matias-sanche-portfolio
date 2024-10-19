@@ -1,5 +1,6 @@
 import Navbar from "../src/components/Navbar"
 import Profile from "./components/Profile"
+import Projects from "./components/Projects"
 import Technologies from "./components/Technologies"
 
 const App =() => {
@@ -17,6 +18,7 @@ const App =() => {
         <Navbar />
         <Profile />
         <Technologies />
+        <Projects />
       </div>
     </div>
   )
