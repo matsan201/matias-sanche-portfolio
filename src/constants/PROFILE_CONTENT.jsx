@@ -9,3 +9,4 @@ const PROFILE_CONTENT = () => {
 }
 
 export default PROFILE_CONTENT
+
