@@ -1,4 +1,5 @@
 import Navbar from "../src/components/Navbar"
+import Experience from "./components/Experience"
 import Profile from "./components/Profile"
 import Projects from "./components/Projects"
 import Technologies from "./components/Technologies"
@@ -19,6 +20,7 @@ const App =() => {
         <Profile />
         <Technologies />
         <Projects />
+        <Experience />
       </div>
     </div>
   )
